@@ -1,0 +1,51 @@
+"""""EXECUTIVE FINANCIAL PERFORMANCE DB""",
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,"EXECUTIVE FINANCIAL PERFORMANCE REPORT
+Course Capstone Project — Week 4
+                                            1. Project Overview
+This report provides an end-to-end data analysis of the enterprise financial dataset. The original messy dataset was programmatically ingested, cleaned of missing value entries, and checked for record duplication using a Python script in Google Colab. The processed dataset was then used to construct an interactive operational dashboard within Google Sheets to evaluate core business indicators across international markets and industrial segments.    
+                                            2. Key Business Insights
+  Based on the dashboard visualizations, three major business trends were identified:
+• Balanced Global Revenue Stream: The global market distribution shows remarkable stability. Total global sales reached $118.7M. Each major region (USA, Canada, France, Germany, and Mexico) accounts for a highly equitable share of the business, with individual country contributions staying tightly bounded between 10% and 11.5% of gross revenues.
+• Segment Volume Drivers: The horizontal performance distribution demonstrates that Government and Small Business sectors serve as the primary macro-drivers for business scale, capturing the highest volume of transactional gross sales.
+• Product Optimization Opportunity: Unit sales concentrations vary significantly across the core product portfolio. Certain high-volume product models dominate customer purchasing cycles, highlighting clear opportunities to optimize manufacturing focus and streamline discount offerings for slower-moving items."
